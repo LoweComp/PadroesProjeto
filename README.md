@@ -26,8 +26,10 @@ O projeto está organizado seguindo a classificação do GoF (*Gang of Four*):
 > Focam no processo de criação de objetos, abstraindo a lógica de instanciação.
 
 ### 📐 Padrões Estruturais
+> Lidam com a composição de classes e objetos para formar estruturas maiores.
 
 ### ⚙️ Padrões Comportamentais
+> Concentram-se nos algoritmos e na atribuição de responsabilidades entre objetos.
 
 ---
 
