@@ -1,4 +1,4 @@
-package com.StateJVW;
+package padroesComportamentais.state;
 
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
